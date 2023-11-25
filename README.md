@@ -1,2 +1,2 @@
 # vagrant -php
-simple composition container
+vagrant -apache -mysql -php8
