@@ -1,2 +1,2 @@
-# docker-jenkins
+# vagrant -php
 simple composition container
